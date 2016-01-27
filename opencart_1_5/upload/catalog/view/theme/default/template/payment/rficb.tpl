@@ -4,9 +4,6 @@
 <input type="hidden" name="name" value="<?php echo $name; ?>"/>
 <input type="hidden" name="email" value="<?php echo $email; ?>" />
 <input type="hidden" name="order_id" value="<?php echo $order_id; ?>" />
-<?php if($pay_type != '0') { ?>
-<input type="hidden" name="payment_type" value="<?php echo $pay_type; ?>" />
-<?php } ?>
 
 <?php if($comission) { ?>
 <input type="hidden" name="comission" value="abonent" />   
