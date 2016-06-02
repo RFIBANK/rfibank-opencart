@@ -5,7 +5,7 @@ $_['heading_title'] = 'RFICB';
 // Text
 $_['text_payment'] = 'Оплата';
 $_['text_success'] = 'Настройки модуля обновлены!';
-$_['text_rficb'] = '<a onclick="window.open(\'https://rficb.ru\');"><img src="image/rfilogo.png" alt="RFICB" title="RFICB" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_rficb'] = '<a onclick="window.open(\'//rficb.ru\');"><img src="view/image/payment/.jpg" alt="RFICB" title="RFICB" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
 $_['entry_rficb_name'] = 'Название магазина/продавца<br /><span class="help">В платежной системе ЗАО "РФИ БАНК"</span>';
